@@ -21,17 +21,59 @@
         />
 
     <Button
-        android:id="@+id/click_me"
+        android:id="@+id/dialNumber"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/click_me"
+        android:text="@string/dial_number"
         />
 
     <Button
-    android:id="@+id/click_me2"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="@string/click_me_2"
-    />
+        android:id="@+id/showToast"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/toast"
+        />
+
+    <Button
+        android:id="@+id/showLocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_location"
+        />
+
+    <Button
+        android:id="@+id/openWebPage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/open_web_page"
+        />
+
+    <Button
+        android:id="@+id/viewIntent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/view_intent"
+        />
+
+    <Button
+        android:id="@+id/letGetsPro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/let_gets_pro"
+        />
+
+<!--    <Button-->
+<!--        android:id="@+id/click_me"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="@string/click_me"-->
+<!--        />-->
+
+<!--    <Button-->
+<!--    android:id="@+id/click_me2"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="wrap_content"-->
+<!--    android:text="@string/click_me_2"-->
+<!--    />-->
 
 </LinearLayout>

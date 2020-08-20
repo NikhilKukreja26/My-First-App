@@ -5,4 +5,12 @@
     <string name="click_me_2">Click Me 2</string>
     <string name="first_button_clecked">First Button Clicked</string>
     <string name="second_button_clicked">Second Button Clicked</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="toast">Toast</string>
+    <string name="show_location">Show Location</string>
+    <string name="open_web_page">Open Web Page</string>
+    <string name="view_intent">View Intent</string>
+    <string name="let_gets_pro">Let Gets Pro</string>
+    <string name="hello_from_another_activity">Hello From Another Activity</string>
+    <string name="landed_other_activty">Landed in Other Activity</string>
 </resources>
